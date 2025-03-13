@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo-image{
+    border-radius: 40px;
+    width:65px;
+    height:65px;
+}
+.bg-card{
+    background-image: url("https://res.cloudinary.com/dh077jl1a/image/upload/v1713544049/C3_p3fuxg.jpg");
+    height:100vh;
+    background-size: cover;
+}
+
+.home-heading{
+    color: #f0fc03;
+    font-family: "Roboto";
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.home-para{
+    color: #fce832;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: bold;
+}
+.aboutme-image{
+    width:100%;
+}
+.aboutme-list-text{
+    font-weight: bold;
+}
+.aboutme-para{
+    font-weight: 600;
+    font-size:17px;
+}
+.skills-bg-card{
+    background-image: radial-gradient(#707371,#434543); 
+    border-radius: 25px;
+}
+.skills-logo{
+    width:110px;
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.skills-heading{
+    color:#fce832;
+}
+.white-bg-card-skills{
+        text-align: center;
+        background-color: white;
+        width: 230px;
+        border-radius: 20px;
+        padding: 15px;
+        padding-right: 25px;
+        margin: 15px;
+
+}
+.services-bg-card{
+    background-image: radial-gradient(#707371,#434543); 
+    border-radius: 25px;
+}
+.services-heading{
+    color:#fce832;
+}
+.services-sub-heading{
+    color:#fce832;
+    font-size:25px;
+}
+
+.services-bg-card2{
+    background-image: radial-gradient(#707371,#434543); 
+    border-radius: 25px;  
+}
+.services-para{
+    color:white;
+    font-size: 20px;
+}
+
+.projects-heading{
+    font-weight: bold;
+    color: #183b56;
+}
+
+.projects-bg-card{
+    background-image: radial-gradient(#707371,#434543); 
+    border-radius: 20px;  
+}
+.project-item-link {
+    color:#fce832;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+}
+.project-card-title{
+    color:#fce832;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 24px;
+}
+
+.project-image {
+    border-radius: 16px;
+    width: 290px;
+    height: 200px;
+}
+
+.contactme-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+
+.contactme-icon-container{
+    width: 80px;
+    height: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 15px;
+    border-radius: 40px;
+}
+
+.icon{
+     color: #d0b200;
+    font-size: 35px;
+}
+
+.mail-heading{
+    color: #183b56;
+    font-size: 20px;
+}
+.copyright-section{
+    background-image: radial-gradient(#707371,#434543);
+    font-family: "Roboto";
+    font-size: 14px;
+}
+.footer-section-para{
+    color:#a9a9a9;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: bold;
+}
